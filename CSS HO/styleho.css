@@ -1,0 +1,223 @@
+*{
+ margin:0;
+ padding:0;
+
+   
+}
+header
+{
+    background-color: #095a46;
+    color:white;
+    border: 2px solid white;
+    border-bottom: none;
+    border-radius: 4px;
+}
+
+body{
+    background-image: url('../img/ig1.jpg');
+    height:100%;
+    background-position: center;
+    background-size:cover;
+    box-sizing:border-box;
+    font-family:sans-serif;
+    color:whitesmoke;
+}
+
+
+h2 {
+    background-color: #c0c0c04f;
+    
+    
+}
+
+
+footer
+{
+    color: white;
+    background-color:#0e0e0fb3;
+   
+}
+
+.menu-bar{
+    background: #313431;
+    text-align:center;
+    border: 2px solid white;
+    border-radius: 4px;
+    
+}
+.menu-bar ul{
+    display:inline-flex;
+    list-style:none;
+    color:white;
+}
+.menu-bar ul li
+{
+    width: 120px;
+    margin: 15px;
+    padding:15px;
+}
+.menu-bar ul li a{
+    text-decoration: none;
+    color:white;
+}
+
+.menu-bar .fa{
+ margin-right:8px;
+}
+.sub-menu1{
+    display:none;
+}
+.menu-bar ul li:hover .sub-menu1
+{
+    display:block;
+    position:absolute;
+    background:rgb(105, 116, 105);
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top:15px;
+    margin-left:-15px;
+}
+.menu-bar ul li:hover .sub-menu1 ul{
+    display:block;
+    margin:10px;
+}
+.menu-bar ul li:hover .sub-menu1 ul li{
+    width:150px;
+    padding:10px;
+    border-bottom:1px;
+    background:transparent;
+    border-radius:0;
+    text-align:left;
+}
+.menu-bar ul li:hover .sub-menu1 ul li :last-child{
+    border-bottom: none;
+}
+.menu-bar ul li:hover .sub-menu1 ul li a:hover{
+    color:#c6d0d6;
+}
+.sub-menu2{
+    display:none;
+}
+.menu-bar ul li:hover .sub-menu2
+{
+    display:block;
+    position:absolute;
+    background:rgb(105, 116, 105);
+    margin-top:15px;
+    margin-left:-15px;
+}
+.menu-bar ul li:hover .sub-menu2 ul{
+    display:block;
+    margin:10px;
+}
+.menu-bar ul li:hover .sub-menu2 ul li{
+    width:150px;
+    padding:10px;
+    border-bottom:1px;
+    background:transparent;
+    border-radius:0;
+    text-align:left;
+}
+.menu-bar ul li:hover .sub-menu2 ul li :last-child{
+    border-bottom: none;
+}
+.menu-bar ul li:hover .sub-menu2 ul li a:hover{
+    color:#c6d0d6;
+}
+.sub-menu3{
+    display:none;
+}
+.menu-bar ul li:hover .sub-menu3
+{
+    display:block;
+    position:absolute;
+    background:rgb(105, 116, 105);
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top:15px;
+    margin-left:-15px;
+}
+.menu-bar ul li:hover .sub-menu3 ul{
+    display:block;
+    margin:10px;
+}
+.menu-bar ul li:hover .sub-menu3 ul li{
+    width:150px;
+    padding:10px;
+    border-bottom:1px;
+    background:transparent;
+    border-radius:0;
+    text-align:left;
+}
+.menu-bar ul li:hover .sub-menu3 ul li :last-child{
+    border-bottom: none;
+}
+.menu-bar ul li:hover .sub-menu3 ul li a:hover{
+    color:#c6d0d6;
+}
+
+.sub-menu4{
+    display:none;
+}
+.menu-bar ul li:hover .sub-menu4
+{
+    display:block;
+    position:absolute;
+    background:rgb(105, 116, 105);
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top:15px;
+    margin-left:-15px;
+}
+.menu-bar ul li:hover .sub-menu4 ul{
+    display:block;
+    margin:10px;
+}
+.menu-bar ul li:hover .sub-menu4 ul li{
+    width:150px;
+    padding:10px;
+    border-bottom:1px;
+    background:transparent;
+    border-radius:0;
+    text-align:left;
+}
+.menu-bar ul li:hover .sub-menu4 ul li :last-child{
+    border-bottom: none;
+}
+.menu-bar ul li:hover .sub-menu4 ul li a:hover{
+    color:#c6d0d6;
+}
+
+.sub-menu5{
+    display:none;
+}
+.menu-bar ul li:hover .sub-menu5
+{
+    display:block;
+    position:absolute;
+    background:rgb(105, 116, 105);
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top:15px;
+    margin-left:-15px;
+}
+.menu-bar ul li:hover .sub-menu5 ul{
+    display:block;
+    margin:10px;
+}
+.menu-bar ul li:hover .sub-menu5 ul li{
+    width:150px;
+    padding:10px;
+    border-bottom:1px;
+    background:transparent;
+    border-radius:0;
+    text-align:left;
+}
+.menu-bar ul li:hover .sub-menu5 ul li :last-child{
+    border-bottom: none;
+}
+.menu-bar ul li:hover .sub-menu5 ul li a:hover{
+    color:#c6d0d6;
+}
+
+
