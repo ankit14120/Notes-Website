@@ -9,4 +9,5 @@ This site provides notes
 - PRAVESH TIWARI
 - PRIYANSHU SINGH
 - VINAYAK MODI
+- College name : BARKATULLA UNIVERSIY INSTITUTE OF THECHNOLOGY, BHOPAL, MADHAYA PRADESH, INDIA
 - "This website provides notes to first year student"
