@@ -1,9 +1,12 @@
 # Notes-Website
+
 This site provides notes
-- created by:
+
+# Contributed by:
+- Student of Computer Science and Engineering 3-Sem
 - AJAY KUMAR
 - ANKIT PATIL
 - PRAVESH TIWARI
 - PRIYANSHU SINGH
 - VINAYAK MODI
-- #Student
+- "This website provides notes to first year student"
