@@ -9,4 +9,4 @@ This site provides notes, This is 3-Sem project
 - PRIYANSHU SINGH
 - VINAYAK MODI
 
-###### "This website provides notes to first year student"
+###### "This website provides notes to first year students"
